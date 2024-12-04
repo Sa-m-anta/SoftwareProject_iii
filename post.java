@@ -8,12 +8,12 @@ package letsread;
  *
  * @author mehedi
  */
-public class cart extends javax.swing.JFrame {
+public class post extends javax.swing.JFrame {
 
     /**
      * Creates new form cart
      */
-    public cart() {
+    public post() {
         initComponents();
     }
 
