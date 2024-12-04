@@ -8,12 +8,12 @@ package letsread;
  *
  * @author mehedi
  */
-public class Filter extends javax.swing.JFrame {
+public class Location extends javax.swing.JFrame {
 
     /**
      * Creates new form Filter
      */
-    public Filter() {
+    public Location() {
         initComponents();
     }
 
